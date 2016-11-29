@@ -2,8 +2,8 @@
 h1 {
 	text-align: center;
 }
-div {
-	padding: 20px;
+div{
+	padding: 5px;
 }
 .d1 {
 	background-color: #DEB887;
@@ -14,6 +14,15 @@ div {
 }
 .d3 {
 	background-color: green;
+}
+.tit1 {
+	background-color: #ADD8E6;
+}
+.tit2 {
+	background-color: #FFFACD;
+}
+.tit3 {
+	background-color: #CDC9C9;
 }
 /*******desktop version*******/
 @media (min-width: 992px) {

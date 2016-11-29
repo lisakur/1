@@ -15,12 +15,18 @@ p {
   width: 100%;
 }
 #d1 {
+	margin-right: 3px;
+	margin-left: : 3px;
 	background-color: #DEB887;
 }
 #d2 {
+	margin-right: 3px;
+	margin-left: : 3px;
 	background-color: #A52A2A;
 }
 #d3 {
+	margin-right: 3px;
+	margin-left: : 3px;
 	background-color: green;
 }
 /*******desktop version*******/
@@ -54,4 +60,3 @@ p {
     width: 100%;
   }
 }
-/*******mobile version*******/

@@ -16,13 +16,16 @@ div{
 	background-color: green;
 }
 .tit1 {
+	border: 1px black;
 	background-color: #ADD8E6;
 }
 .tit2 {
+	border: 1px black;
 	background-color: #FFFACD;
 }
 .tit3 {
 	background-color: #CDC9C9;
+	border: 1px black;
 }
 /*******desktop version*******/
 @media (min-width: 992px) {

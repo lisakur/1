@@ -6,13 +6,13 @@ div{
 	border: 1px;
 	padding: 5px;
 }
-.d1 {
+#d1 {
 	background-color: #DEB887;
 }
-.d2 {
+#d2 {
 	background-color: #A52A2A;
 }
-.d3 {
+#d3 {
 	background-color: green;
 }
 .tit1 {
@@ -29,23 +29,19 @@ div{
 }
 /*******desktop version*******/
 @media (min-width: 992px) {
-	div{
-		width: 33%;
+.col-lg-4{
+	width: 33,33%;
+
 }
 }
 /*******tablet version*******/
 @media (min-width: 768px) and (max-width: 991px) {
-.d1 {
+.col-md-6{
 	width: 50%;
-	float: left;
-}
-.d2 {
-	width: 50%;
-	float: left;
-}
-.d3 {
-	width: 50%;
-	float: left;
+    }
+ .col-md-12{
+	width: 100%;
+
 }
 }
 /*******mobile version*******/

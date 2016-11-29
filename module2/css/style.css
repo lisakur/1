@@ -26,7 +26,7 @@ div{
 	background-color: #CDC9C9;
 	border: 1px black;
 }
-/*******desktop version*******/
+/*******desktop version/
 @media (min-width: 992px) {
 	div{
 		width: 33%;
@@ -34,7 +34,7 @@ div{
 	}
 
 }
-/*******tablet version********/
+/*******tablet version
 @media (min-width: 768px) and (max-width: 991px) {
 .d1 {
 	width: 50%;
@@ -49,7 +49,8 @@ div{
 	float: left;
 }
 }
-/*******mobile version********/
+/*******mobile version
 @media (max-width: 767px) {
 
 }
+***

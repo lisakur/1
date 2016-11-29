@@ -15,11 +15,13 @@ p {
   width: 100%;
 }
 #d1 {
+	height: 266px;
 	margin-right: 3px;
 	margin-left: : 3px;
 	background-color: #DEB887;
 }
 #d2 {
+	height: 266px;
 	margin-right: 3px;
 	margin-left: : 3px;
 	background-color: #A52A2A;

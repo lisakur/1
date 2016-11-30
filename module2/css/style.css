@@ -16,7 +16,7 @@ p {
   width: 100%;
 }
 #d1 {
-    margin-right: 5px;
+    
 	background-color: #DEB887;
 }
 #d2 {
@@ -34,6 +34,7 @@ p {
     border: 1px solid black;
   }
   .col-lg-4 {
+  	margin: 5px;
     width: 33.33%;
   }
   .col-lg-6 {

@@ -16,11 +16,11 @@ p {
   width: 100%;
 }
 #d1 {
-
+    margin-right: 5px;
 	background-color: #DEB887;
 }
 #d2 {
-
+    
 	background-color: #A52A2A;
 }
 #d3 {

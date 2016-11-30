@@ -32,9 +32,10 @@ p {
  .col-lg-4,.col-lg-6,.col-lg-12 {
     float: left;
     border: 1px solid black;
+     margin: 5px;
   }
   .col-lg-4 {
-  	margin: 5px;
+ 
     width: 33.33%;
   }
   .col-lg-6 {

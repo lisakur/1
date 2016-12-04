@@ -11,18 +11,17 @@ h1 {
 }
 div.container {
 	background-color: #807877;
-}
+	border: 1px solid black;
 }
 p {
   width: 90%;
-  border: 1px solid black;
   margin: 2px
 
 }
 .row {
   width: 100%;
 }
-title {
+div#t1 {
 	position: absolute;
 	top: 0;
 	right: 0;

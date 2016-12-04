@@ -10,6 +10,7 @@ h1 {
   text-align: center;
 }
 div.container {
+	position: relative;
 	background-color: #807877;
 	border: 1px solid black;
 }
